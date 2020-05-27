@@ -8,3 +8,8 @@ React Hooks Practice
 - useRef
 - useClick
 - useConfirm
+- useBeforeLeave
+- useFadeIn
+- useNetwork
+- useScroll
+- useFullScreen
