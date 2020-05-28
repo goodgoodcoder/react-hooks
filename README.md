@@ -13,3 +13,5 @@ React Hooks Practice
 - useNetwork
 - useScroll
 - useFullScreen
+- useNotification
+- useAxios
